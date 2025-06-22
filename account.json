@@ -1,0 +1,34 @@
+{
+    "abdul": [
+        {
+        "username": "abdul",
+        "password": "1234",
+        "account_number": "20250001",
+        "balance": "20",
+        "transactions": [],
+        "login_attempts": 0,
+        "locked": false
+    },
+    {
+        "username": "abdul",
+        "password": "1234",
+        "account_number": "20250002",
+        "balance": "15",
+        "transactions": [],
+        "login_attempts": 0,
+        "locked": false
+    }
+    ],
+    "john": [
+        {
+            "username": "john",
+            "password": "1234",
+            "account_number": "20250003",
+            "balance": "30",
+            "transactions": [],
+            "login_attempts": 0,
+            "locked": false
+        }
+    ]
+
+}
